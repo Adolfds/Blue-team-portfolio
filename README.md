@@ -30,3 +30,10 @@ Linux • Windows • Python • Bash • Sysmon • Wazuh • Elastic • Splun
 🟢 Active — January 2026 onward
 
 > This portfolio is continuously updated as I progress through my cybersecurity roadmap.
+
+## 🧪 Lab Environment
+A local lab environment was built using VMware Workstation Player with:
+- Ubuntu Server (manager)
+- Windows 10 endpoint
+
+The detailed setup and architecture are documented in `notes/lab-setup.md`.
